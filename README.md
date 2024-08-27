@@ -1,2 +1,2 @@
 # Recruitment-system-
-Menu lish of hotel
+Menu list of hotel
